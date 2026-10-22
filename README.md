@@ -1,0 +1,2 @@
+# BeeBuddy
+BeeBuddy-Ai comapanion
